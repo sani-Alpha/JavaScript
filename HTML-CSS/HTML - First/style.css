@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(236, 210, 171);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 5%;
+}
+h1 {
+    text-align: center;
+    position: relative;
+}
+.firstP {
+    text-align: center;
+    position: relative;
+    margin: 10px;
+}
+p .secondP {
+    text-align: left;
+    position: relative;
+    margin: 20px;
+}
+a {
+    text-align: center;
+    position: relative;
+}
+img {
+    width: 50%;
+}
+#your-name {
+    text-align: center;
+    padding: 20px;
+    background-color: blanchedalmond;
+    border: 2px solid #000;
+    width: 400px;
+    margin-left: 30%;
+}
+
+#your-name h2{
+    color: olivedrab;
+}
