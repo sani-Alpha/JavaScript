@@ -1,0 +1,59 @@
+* {
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 8px;
+  /* padding: 0; */
+  text-align: justify;
+}
+
+hr {
+  border: none;
+  border-top: 3px double #333;
+  color: #333;
+  height: 5px;
+  overflow: visible;
+  text-align: center;
+}
+
+.date {
+  font-size: 13px;
+}
+
+p {
+  width: 70%;
+}
+
+.bio {
+  align-items: center;
+  display: flex;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.bio img {
+  border-radius: 50%;
+  border: 1.5px solid #000;
+  height: 200px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-top: 10px;
+  padding: 3px;
+}
+
+h4 {
+  width: 30%;
+}
+
+.projects p {
+  font-size: 15px;
+}
+
+.contact {
+  text-align: center;
+  width: 100%;
+}

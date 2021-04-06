@@ -1,0 +1,22 @@
+#landing {
+    border: 1px solid #000;
+    height: 150px;
+    position: relative;
+    width: 100%;
+}
+
+h2 {
+    position: relative;
+    text-align: center;
+    top: 2%;
+}
+
+#btn {
+    position: absolute;
+    left: 40%;
+    top: 70%;
+}
+
+#item {
+    position: relative;
+}
