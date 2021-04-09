@@ -1,0 +1,10 @@
+box {
+    height: 50%;
+    position: relative;
+    width: 50%;
+}
+
+box > * {
+    position: absolute;
+    width: 20%;
+}
